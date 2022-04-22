@@ -22,7 +22,7 @@ public class RestfullserviceApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		javaToXmlConversion.marshing();
-		xmlToJavaConversions.unMarshling();
+	//	javaToXmlConversion.marshing();
+	//	xmlToJavaConversions.unMarshling();
 	}
 }
